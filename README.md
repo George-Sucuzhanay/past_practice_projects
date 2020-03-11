@@ -1,6 +1,7 @@
 # Welcome to George.github.io
 Current and Past projects are found in the "Projects" folder
-| Follow me on Instagram @george_sucuzhanay_ | Linkedin as ln/GeorgeSucuzhanay
+| Follow me on Instagram @george_sucuzhanay_ | 
+# Linkedin as ln/GeorgeSucuzhanay
 
 How To Build a Personal Website
 Guides & Resources for Building a Portfolio Website to Help Land a Software Engineering Position
