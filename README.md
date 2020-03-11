@@ -4,4 +4,4 @@ Current and Past projects are found in the "Projects" folder
 
 # This Repository
 This repository includes all the code for my portfolio website and I welcome you to clone it to use as a template.
-<br> My Portfolio Website: http://stevejones.io
+<br> My Portfolio Website: http://georgesucuzhanay.tech.blog
