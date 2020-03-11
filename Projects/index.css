@@ -1,0 +1,51 @@
+h1 {
+    color: Black;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Times New Roman;
+    margin-top: 50px;
+}
+
+p {
+    font-size: 25px;
+    padding: 5px;
+}
+
+h2 {
+    color: Black;
+    font-size: 30px;
+    font-family: Times New Roman;
+    padding: 5px;
+    text-align: center;
+}
+ul {
+    font-size: 35px;
+}
+li {
+    font-size: 20px;
+    padding: 5px;
+}
+ol {
+    font-size: 15px;
+    padding: 25px;
+}
+img {
+    width: 100px;
+    text-align: center;
+    margin: 5px;
+}  
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+table {
+    margin: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+a {
+    font-size: 20px;
+}
