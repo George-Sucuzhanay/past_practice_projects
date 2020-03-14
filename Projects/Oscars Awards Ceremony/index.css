@@ -1,1 +1,36 @@
-hfebuf3
+h1 {
+  font-size: 40px;
+  font-family:Times New Roman;
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 50px;
+  color: gold;
+}
+h2 {
+  font-size: 30px;
+  font-family: Times New Roman;
+  padding: 10px;
+  text-align: center;
+  margin-top: 10px;
+}
+p {
+  font-size: 25px;
+  font-family: Times New Roman;
+  padding: 10px;
+  text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+a {
+  font-size: 20px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+}
