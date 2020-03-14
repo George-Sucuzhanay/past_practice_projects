@@ -8,15 +8,15 @@ h1 {
   color: gold;
 }
 h2 {
-  font-size: 30px;
+  font-size: 35px;
   font-family: Times New Roman;
   padding: 10px;
   text-align: center;
   margin-top: 10px;
 }
 p {
-  font-size: 25px;
-  font-family: Times New Roman;
+  font-size: 30px;
+  font-family: sans-serif;
   padding: 10px;
   text-align: center;
 }
@@ -33,4 +33,12 @@ a {
   margin-left: auto;
   margin-right: auto;
   width: 50%
+}
+div {
+  animation-delay: 60s;
+}
+body {background-color: black;}
+body {
+ background-image: url("https://media.istockphoto.com/videos/golden-awards-backgrounds-video-id1131997252?s=640x640");
+ background-color: black;
 }
