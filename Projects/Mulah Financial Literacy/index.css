@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    text-size: 35px;
+}
+h2 {
+  text-align: center;
+  text-size: 25px;
+}
+h3{
+  text-align: left;
+  text-size: 20px
+}
+ul, ol {
+  text-size: 15px;
+}
