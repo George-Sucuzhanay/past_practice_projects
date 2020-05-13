@@ -1,0 +1,105 @@
+.nav-link {
+  opacity: 1;
+  background-color: white;
+}
+header {
+   /*Sizing of the element*/
+  height: 700px;
+   width: 100%;
+   /*Set and adjust background image*/
+   background-image: url("https://miro.medium.com/max/12032/0*Q8DDPKbl1Jek0i0a");
+   background-size: cover;
+   color: white;
+  /*Center the text*/
+   text-align: center;
+   font-family: sans-serif;
+   font-size: 50px;
+}
+p {
+   font-style: italic;
+   font-size: 15px;
+   text-align: center;
+}
+img {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+.services i{
+  font-size:24px;
+  padding: 10px;
+  color: white;
+  background-color:#5bc0de;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+   border-radius: 50%;
+   margin-bottom: 50px;
+
+}
+
+.services p {
+  display: inline-block;
+}
+
+.contact i {
+  text-align:center;
+
+
+}
+.button {
+  width:100%;
+}
+  
+
+.team{
+   margin-top: 80px;
+   margin-bottom: 80px;
+}
+.team img{
+   width: 250px;
+   height: 250px;
+   /*Object fit will crop and center image based on width and height*/
+   object-fit: cover;
+   border-radius: 50%;
+   margin-bottom: 50px;
+}
+.contact {
+   margin-bottom: 80px;
+}
+.contact .input-group {
+   margin-bottom: 25px;
+}
+.contact i {
+   padding: 15px;
+}
+.contact .btn {
+   border-radius: 0;
+   width: 100%;
+   font-size: 15px;
+   background-color: #f08080;
+   color: #fff;
+}
+.contact .btn:hover {
+   background-color: #a85959 !important;
+   color: #fff !important;
+}
+footer {
+  height: 50%;
+  font-size:24px;
+  padding: 15px;
+}
+
+footer p {
+  display: inline-block;
+}
+
+footer .btn {
+   border-radius: 0;
+   width: 100%;
+   font-size: 15px;
+   background-color: #f08080;
+   color: #fff;
+}
