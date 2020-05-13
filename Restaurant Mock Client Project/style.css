@@ -1,0 +1,115 @@
+body{
+  background-color:#2e2a2a;
+  color:#baafaf;
+  font-family: 'Comic Neue', cursive;
+}
+.nav-item{
+  transition: background-color 0.5s ease;
+}
+.nav-item:hover{
+  background-color:#949087;
+}
+h1{
+  font-family: 'Dancing Script', cursive;
+  color:#d5ded3;
+}
+header img{
+  display:block;
+  margin: 100px auto 50px auto;
+  width:100%;
+}
+header h1{
+  font-weight:bold;
+}
+header h1, h3, div{
+  text-align:center;
+}
+header, section{
+  width:940px;
+  margin:0 auto;
+}
+footer{
+  margin-top:250px;
+}
+footer p{
+  font-size:12pt;
+}
+footer i{
+  margin-right:4px;
+}
+footer .input-group{
+  margin-top:10px;
+}
+.social{
+  text-align:center;
+}
+.twitter{
+  color:lightblue;
+}
+.facebook{
+  color:blue;
+}
+.instagram{
+  color:orange;
+}
+.team img{
+  margin-top:100px;
+  height:200px;
+  width:200px;
+}
+
+/*hr decoration*/
+hr{
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+.team{
+   margin-top: 50px;
+   margin-bottom: 80px;
+}
+.team img{
+   width: 250px;
+   height: 250px;
+   /*Object fit will crop and center image based on width and height*/
+   object-fit: cover;
+   border-radius: 50%;
+   margin-bottom: 50px;
+}
+.team .col-md-6{
+  margin:0 auto;
+}
+.team img{
+  margin-top:15px;
+}
+.dedicated_Team{
+  text-align:center;
+}
+.reservation{
+  text-align:center;
+}
+.reservation h1{
+  margin-bottom:50px;
+}
+.menu_items{
+  margin-top:50px;
+}
+.menu_header img{
+  width:80%;
+  margin:0 auto;
+  margin-top:50px;
+}
+.menu_images img{
+  width:200px;
+  height:200px;
+}
+.itemName{
+  font-size:24pt;
+  font-weight:bold;
+  font-family: 'Dancing Script', cursive;
+  color:#d5ded3;
+}
+.menu_items p{
+  text-align:left;
+}
