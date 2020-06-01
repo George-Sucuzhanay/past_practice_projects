@@ -2,7 +2,7 @@
 Current and Past projects are found in the "Projects" folder
 - Observe current and past projects from America on Tech
 
-##Personal Projects
+## Personal Projects
 - Mulah Fianacial Literacy Web App
 - Resume Tailor Website
 
