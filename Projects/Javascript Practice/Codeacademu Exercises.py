@@ -1,3 +1,4 @@
+// Console
 console.log(5);
 console.log(12);
 
@@ -12,3 +13,15 @@ console.log('If it became jaundice they could treat it.');
 console.log('If it didn\'t become jaundice and went away they could discharge him.');
 console.log('But this just being short of jaundice all the time confused them.'); 
 */
+
+// Arithmetic Operation 
+console.log(3.5+16);
+console.log(2020-1969);
+console.log(65/240);
+console.log(0.2708*100);
+
+// String Concatention
+console.log('hi' + 'ya'); // Prints 'hiya'
+console.log('wo' + 'ah'); // Prints 'woah'
+console.log('I love to ' + 'code.')
+// Prints 'I love to code.'
