@@ -1,0 +1,22 @@
+food=input("Enter your favorite color")
+print(food)
+print("I love blue, too!")
+
+
+
+message="Hi I'm George welcome to Web Dev class"
+
+print(message)
+print(message +"!")
+x=2
+y=4
+message= ("Hi, I am Maria")
+print(message + "!")
+
+
+food=input("favorite food")
+
+print(food)
+
+
+PI=3.1415926
