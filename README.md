@@ -1,3 +1,8 @@
+## About Me
+Rising Senior at Aviation High School in New York City
+- Love mentoring others in web development and enjoy helping others
+- Tech
+
 ## Welcome to George.github.io
 Current and Past projects are found in the "Projects" folder
 - Observe current and past projects from America on Tech
