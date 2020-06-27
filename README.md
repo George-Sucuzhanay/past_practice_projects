@@ -1,6 +1,7 @@
 ## About Me
 Rising Senior at Aviation High School in New York City
-- Love mentoring others in web development and enjoy helping others
+- Love mentoring others in Web Development and enjoy helping others
+- Passionate in learning more and tech-enthusiast
 - Currently working as a Front-End Developer for Revoteen
 https://github.com/mbokinala/revoteen-web/commits?author=George-Sucuzhanay
 
