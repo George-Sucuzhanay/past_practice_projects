@@ -10,6 +10,8 @@ Current and Past projects are found in the "Projects" folder
 - Observe current and past projects from America on Tech
 
 ## Personal Projects
+- Building out my Persinal Website
+https://george-sucuzhanay.github.io/
 - Mulah Fianacial Literacy Web App
 - Resume Tailor Website
 
