@@ -1,0 +1,78 @@
+body {
+  background-color: white;
+  font-size: 35x;
+  text-align: center;
+  
+}
+h1 {
+  font-family: 'Helvetica';
+  font-size: 35px;
+  text-align: center;
+}
+h2 {
+  font-family: "Georgia";
+}
+p {
+  text-align: center;
+}
+
+label {
+  font-size: 20px;
+  text-align: center;
+  border-radius: 2px;
+}
+  
+button {
+  font-size: 20px;
+  text-align: center;
+  border-radius: 2px;
+  background-color: #ffaf03;
+  color: white;
+
+}
+
+button, input, optgroup, select, textarea {
+  border-radius: 500px;
+  text-align: center;
+  font-size: 20px;
+  border-radius: 7px;
+  background-color: #ffd500;
+  color: black;
+  width: 60%;
+  padding: 7px;
+  outline: none;
+  
+}
+
+
+  
+.input-icons i { 
+            position: absolute; 
+        } 
+          
+  
+        .input-icons { 
+            width: 100%; 
+            margin-bottom: 10px; 
+        } 
+          
+        .icon { 
+            padding: 10px; 
+            color: black; 
+            min-width: 50px; 
+            text-align: center; 
+        } 
+          
+        .input-field { 
+            width: 100%; 
+            padding: 10px; 
+            text-align: center; 
+        } 
+        
+a href {
+  color: black;
+}
+
+::placeholder {
+  color: black;
+}
