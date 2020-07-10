@@ -7,7 +7,8 @@ https://github.com/mbokinala/revoteen-web/commits?author=George-Sucuzhanay
 
 ## Welcome to George.github.io
 Current and Past projects are found in the "Projects" folder
-- Observe current and past projects from America on Tech
+- Observe past projects from America on Tech
+- Currently working on JavaScript projects with All Star Code
 
 ## Personal Projects
 - Building out my Persinal Website
