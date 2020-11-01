@@ -11,7 +11,7 @@ Current and Past projects are found in the "Projects" folder
 - Currently working on JavaScript projects with All Star Code
 
 ## Personal Projects
-- Building out my Persinal Website
+- Building out my Personal Website
 https://george-sucuzhanay.github.io/
 - Mulah Fianacial Literacy Web App
 - Resume Tailor Website
